@@ -1,2 +1,2 @@
 # apanacollege-demo
-This is my
+This is my first Git repository
